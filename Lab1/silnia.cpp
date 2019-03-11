@@ -1,17 +1,22 @@
-
 #include <iostream>
 using namespace std;
 
-int main()
+int factorial(int n);
+int main(void)
 {
-    int n;
-    int silnia=1;
-    cout << "jaka silnie chcesz obliczyc?" << endl;
-    cin >> n;
-    for(int i=1; i<=n; i++)
-    {
-        silnia=silnia*i;
-    }
-    cout << silnia;
-    return 0;
+  int a;
+  cout << "jaka silnie chcesz obliczyc? ";
+  cin >> a;
+  cout << factorial(a);
+  return 0;
+}
+
+int factorial(int n)
+{
+  int number=1;
+  for(int i=1;i<=n;i++)
+  {
+    number*=i;
+  }
+  return number;
 }
