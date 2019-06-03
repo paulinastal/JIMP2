@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab7/kolo_kula/circle.h
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab7/kolo_kula/main.cpp
+iostream
+-
+circle.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab7/kolo_kula/circle.h
+sphere.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab7/kolo_kula/sphere.h
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab7/kolo_kula/sphere.h
+circle.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab7/kolo_kula/circle.h
+

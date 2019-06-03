@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/matrix/main.cpp
+iostream
+-
+matrix.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/matrix/matrix.h
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/matrix/matrix.cpp
+regex
+-
+string
+-
+iterator
+-
+algorithm
+-
+vector
+-
+iostream
+-
+matrix.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/matrix/matrix.h
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/matrix/matrix.h
+regex
+-
+vector
+-
+memory
+-
+complex
+-
+

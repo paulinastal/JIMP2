@@ -1,0 +1,3 @@
+C:/Users/Paulina/Desktop/na5zJIMP/Lab4/point/cmake-build-debug/CMakeFiles/point_test.dir
+C:/Users/Paulina/Desktop/na5zJIMP/Lab4/point/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paulina/Desktop/na5zJIMP/Lab4/point/cmake-build-debug/CMakeFiles/rebuild_cache.dir

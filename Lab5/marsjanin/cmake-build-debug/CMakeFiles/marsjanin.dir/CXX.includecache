@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/marsjanin/main.cpp
+iostream
+-
+ctime
+-
+vector
+-
+marsjanin.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/marsjanin/marsjanin.h
+conio.h
+-
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/marsjanin/marsjanin.h
+

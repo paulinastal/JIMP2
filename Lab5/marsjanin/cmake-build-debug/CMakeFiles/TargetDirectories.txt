@@ -1,0 +1,3 @@
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/marsjanin/cmake-build-debug/CMakeFiles/marsjanin.dir
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/marsjanin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/marsjanin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

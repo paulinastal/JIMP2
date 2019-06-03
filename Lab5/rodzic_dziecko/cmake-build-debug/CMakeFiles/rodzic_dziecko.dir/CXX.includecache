@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/rodzic_dziecko/dziecko.h
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/rodzic_dziecko/main.cpp
+iostream
+-
+string
+-
+rodzic.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/rodzic_dziecko/rodzic.h
+dziecko.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/rodzic_dziecko/dziecko.h
+
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/rodzic_dziecko/rodzic.h
+dziecko.h
+C:/Users/Paulina/Desktop/na5zJIMP/Lab5/rodzic_dziecko/dziecko.h
+

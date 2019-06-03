@@ -1,0 +1,3 @@
+C:/Users/Paulina/Desktop/DTab/cmake-build-debug/CMakeFiles/DTab.dir
+C:/Users/Paulina/Desktop/DTab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paulina/Desktop/DTab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

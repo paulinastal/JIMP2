@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Paulina/Desktop/DTab/DTab.cpp
+iostream
+-
+algorithm
+-
+iterator
+-
+assert.h
+-
+vector
+-
+DTab.h
+C:/Users/Paulina/Desktop/DTab/DTab.h
+
+C:/Users/Paulina/Desktop/DTab/DTab.h
+
