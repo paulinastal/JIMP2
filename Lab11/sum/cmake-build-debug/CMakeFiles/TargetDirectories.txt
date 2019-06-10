@@ -1,0 +1,3 @@
+C:/Users/Paulina/UNI/JiMP2/Lab11/sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paulina/UNI/JiMP2/Lab11/sum/cmake-build-debug/CMakeFiles/sum.dir
+C:/Users/Paulina/UNI/JiMP2/Lab11/sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Paulina/UNI/JiMP2/Lab11/sum/main.cpp
+iostream
+-
+complex
+-
+sum.h
+C:/Users/Paulina/UNI/JiMP2/Lab11/sum/sum.h
+
+C:/Users/Paulina/UNI/JiMP2/Lab11/sum/sum.h
+iostream
+-
+cstdlib
+-
+string
+-
+variant
+-
+
